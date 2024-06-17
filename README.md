@@ -14,9 +14,6 @@ A bunch of tools to help people in the Solana ecosystem. This website includes:
 Download our xNFT [here](https://test.xnft.gg/app/621U7cWfav4ypS7e7uxdXcZTjTFgkeXW48sRReoFewg9). Find the source code of our xNFT just [here](https://github.com/cryptoloutre/solana-tools-xnft).
     
 
-## Demo:
-- Mainnet: https://solanatools.vercel.app/
-- Devnet: https://solanatools-devnet.vercel.app/
 
 ## Tips
 Donations can be made at `solanatools.sol` if you are feeling generous and want to support me!
